@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pyflakes = "==2.2.0"
+faker = "==7.0.0"
 
 [dev-packages]
 
